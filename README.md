@@ -14,7 +14,7 @@ Install the requirements using-
 pip install -r requirements.txt
 ```
 ### API
-Base URL- [http://bhuvneshgupta.pythonanywhere.com/](http://bhuvneshgupta.pythonanywhere.com/)
+Base URL- [http://bhuvneshgupta.pythonanywhere.com](http://bhuvneshgupta.pythonanywhere.com)
 
 Endpoint - /user
 
